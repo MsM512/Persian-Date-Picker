@@ -8,8 +8,28 @@ This library provides you a beautiful Persian Date picker with BottomSheetDialog
 
 ## Usages
 
-Use this dependency in your build.gradle file to reference this library in your project
+To get a Git project into your build:
 
+Step 1. Add the JitPack repository to your build file
+Add it in your root build.gradle at the end of repositories:
+
+```
+dependencyResolutionManagement {
+		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+		repositories {
+			mavenCentral()
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+Step 2. Add the dependency
+
+```
+dependencies {
+	        implementation 'com.github.MsM512:Persian-Date-Picker:Tag'
+	}
+```
 Then in your Java Code, you use it like below.
 
 ```java
