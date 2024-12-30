@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dp_white">#27303D</color>
+    <color name="dp_title">#FFFFFF</color>
+    <color name="dp_fade">#808080</color>
+</resources>
