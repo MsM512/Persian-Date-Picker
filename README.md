@@ -1,6 +1,6 @@
 # Persian Date Picker with BottomSheetDialogFragment
 
-![Hero Image](https://raw.githubusercontent.com/MsM512/Persian-Date-Picker/master/screenshot/main.jpg)
+![Hero Image](https://raw.githubusercontent.com/MsM512/Persian-Date-Picker/master/screenshot/main.jpg=270x600)
 
 ![Image](https://jitpack.io/v/MsM512/Persian-Date-Picker.svg)
 
